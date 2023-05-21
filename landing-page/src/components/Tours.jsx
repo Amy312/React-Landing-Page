@@ -4,7 +4,7 @@ import Tour from './Tour'
 
 const Tours = () => {
     return(
-        <section className="section" id="tours">
+        <section className="section" id="DTI">
       <div className="section-title">
         <h2>Carreras <span>DTI</span></h2>
       </div>

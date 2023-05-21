@@ -1,5 +1,7 @@
 import { links } from '../data/data'
-export const SectionLinks = ({ className, itemClass}) => {
+import React from 'react';
+
+export const SectionLinks = (props) => {
     return(
         <ul className="nav-links" id="nav-links">
             {

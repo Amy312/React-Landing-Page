@@ -43,11 +43,11 @@ export const footerLinks = [
     },
     {
         id: 2,
-        link: 'Jefe',
+        link: 'jefe',
     },
     {
         id: 3,
-        link: 'Mercado',
+        link: 'mercado',
     },
     {
         id: 4,

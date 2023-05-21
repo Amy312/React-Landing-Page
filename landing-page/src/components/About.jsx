@@ -3,7 +3,7 @@ import Title from './Title';
 
 const About = () => {
     return(
-        <section className="section" id="about">
+        <section className="section" id="jefe">
           <Title title='Jefe de' subTitle='Carrera' ></Title>
       
 
